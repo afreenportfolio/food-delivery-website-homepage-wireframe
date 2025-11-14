@@ -1,13 +1,13 @@
-# Food-Delivery-Homepage-UI-UX
-
+# Food Delivery Homepage UI/UX
 This project features a homepage design for a food delivery platform, optimized for quick navigation and appealing visuals. It uses component-based structures to maintain scalability and user focus.
+
 Features
 1. Visual hierarchy for categories and features.
 2. Promotional banners and engagement tools.
 3. Consistent layouts for scalability.
 4. User-friendly browsing experience.
 
-Technologies Used
+Technologies used
 1. Design Tool: Figma
 
 Installation
