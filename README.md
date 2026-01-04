@@ -1,4 +1,4 @@
-# Food Delivery Website Homepage UI/UX Wireframe
+# Food Delivery Website Homepage Wireframe
 
 ![Type](https://img.shields.io/badge/Type-UI/UX_Internship-purple) 
 ![Status](https://img.shields.io/badge/Status-Completed-green)
